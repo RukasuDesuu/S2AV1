@@ -37,6 +37,7 @@ public:
         year = y;
         source = fonte[sou];
         status = sts[sta];
+        npag = 0;
     }
 
     void emprestar(int c){

@@ -81,6 +81,8 @@ public:
         nome = a;
         dataNasc = b;
         endereco = c;
+        saldo = 0;
+        divida = 0;
     }
 };
 

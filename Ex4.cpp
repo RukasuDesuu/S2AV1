@@ -40,6 +40,10 @@ public:
         type = tipo[t];
         disk = disco[d];
         price = 0;
+        status = "false";
+        frequency = 0;
+        maintain = true;
+        string power = "";
     }
 
     void start(){

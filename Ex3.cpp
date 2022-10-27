@@ -37,6 +37,9 @@ public:
       }else{
         status = 1;
       }
+      capacity = 0;
+      novo = true;
+      gas = "";
     }
 
     void sell(){
